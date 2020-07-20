@@ -31,7 +31,7 @@ Installing pygame : *pip install pygame* in your terminal.
 
 # App Screen
 
-![](https://github.com/rudrajit1729/Space-Invaders/blob/master/assets/capture.PNG)
+![](https://github.com/rudrajit1729/A_Star-Path-Finder/blob/master/Capture_1.JPG)
 
 
 
